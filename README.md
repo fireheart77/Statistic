@@ -1,2 +1,2 @@
-# Statistic
-Multivariate statistics in medicine
+# Econometrics in R
+basic statistics in public health.
